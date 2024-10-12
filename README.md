@@ -6,10 +6,17 @@ Aqui você encontrará meu currículo, projetos e outras entregas que demonstram
 
 ## Estrutura do Repositório
 - **curriculo/**: Contém meu currículo em formato Markdown e uma imagem do meu perfil no LinkedIn.
+- **portfolio/**: Inclui o meu portfólio em PDF com detalhes sobre projetos acadêmicos e profissionais.
+- (WIP) **projetos/**: Ainda vazio, afinal estou iniciando o curso
 
 ## Objetivo
 
 O objetivo deste repositório é servir como um portfólio digital, organizado e atualizado utilizando Git e GitHub. Este projeto faz parte do desafio intermediário da disciplina, onde utilizamos ferramentas de controle de versão e hospedagem de repositórios.
+
+## Como Navegar
+
+Você pode acessar os diferentes arquivos diretamente pelas pastas descritas acima. 
+O arquivo README.md contém as informações principais, enquanto o PDF no diretório *portfolio/* detalha meus projetos e experiências.
 
 ## Contato
 
